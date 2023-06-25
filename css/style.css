@@ -1,6 +1,13 @@
 body{
     background-color: rgb(1, 82, 82);
-}  
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+	margin-top: 15%;
+}
 
 .js-btn {
     background-color: cadetblue;
@@ -30,7 +37,6 @@ body{
     height: 200px;
     border-radius: 50%;
     border: 1px solid #000;
-    margin: 0px auto;
     box-shadow: 5px 5px 5px 5px ;
 }
 .traffic-light_red{
