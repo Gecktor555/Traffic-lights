@@ -12,6 +12,7 @@ const classesByLight = {
     [lights.green]:'traffic-light_green',
     [lights.yellow1]:'traffic-light_yellow-1',
 }
+
 const nextLightByLight = {
     /*
     [lights.red]:lights.green,
