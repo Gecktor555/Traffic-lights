@@ -1,3 +1,4 @@
+
 const lights = {
     red:'red',
     yellow0:'yellow',
