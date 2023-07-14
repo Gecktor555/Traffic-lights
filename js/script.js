@@ -5,6 +5,7 @@ const lights = {
     green:'green',
     yellow1:'yellow1'
 };
+
 const classesByLight = {
     [lights.red]:'traffic-light_red',
     [lights.yellow0]:'traffic-light_yellow-0',
